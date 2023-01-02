@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(../font/Montserrat/static/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: Inter;
+  src: url(../font/Inter/static/Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(../font/Poppins/Poppins-Regular.ttf);
+}
+em {
+  color: #a2a2a2;
+}
+.text_grey2 {
+  color: #374457;
+}
+.full_width {
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "adat-project-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/adatProject/AdatProjectWebPart.js",
+          "manifest": "./src/webparts/adatProject/AdatProjectWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AdatProjectWebPartStrings": "lib/webparts/adatProject/loc/{locale}.js"
+  }
+}

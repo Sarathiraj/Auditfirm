@@ -1,0 +1,26 @@
+.tnf_thankspage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  margin: auto;
+}
+.text_grey {
+  color: #878f9a !important;
+}
+.tnf_request_formsummary {
+  margin-top: 50px;
+  background-color: white;
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  align-items: center;
+  flex-direction: column;
+}
+.tnf_thanks_page_table_step2_box2 {
+  display: flex;
+}
+.tnf_thanks_page_table_step2_box2 div {
+  flex-grow: 1;
+}

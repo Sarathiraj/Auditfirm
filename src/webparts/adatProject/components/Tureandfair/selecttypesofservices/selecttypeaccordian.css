@@ -1,0 +1,29 @@
+.selecttype_services_acoordian {
+  display: flex;
+  border: 1px solid #c3c7cd;
+  margin-right: 10px;
+  align-items: center;
+  padding: 10px;
+  flex: 1;
+}
+.selecttype_services_acoordian_text {
+  flex-grow: 1;
+}
+.selecttype_services_acoordian_open {
+  display: flex;
+  margin-right: 10px;
+  align-items: center;
+}
+.selecttype_services_acoordian_open_container {
+  padding: 0 10px;
+  background-color: #f2f5f7;
+  margin-right: 10px;
+  padding-bottom: 10px;
+  border: 1px solid #c3c7cd;
+}
+.selecttype_services_acoordian .calendarinput {
+  border: none;
+  outline: none;
+  padding: 0 10px;
+  flex: 1;
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "adat-project",
+    "libraryId": "6a32936b-2151-4c71-bd49-db17f85800e3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Adat-Project",
+    "solutionShortDescription": "Adat-Project description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

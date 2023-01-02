@@ -1,0 +1,19 @@
+.firmdetails_form_wrapper {
+  width: 90vw !important;
+}
+.Stepper_submit_btn {
+  margin-top: 50px;
+}
+.firmdetails_form_textfield {
+  flex: 1;
+}
+.Stepper_submit_btn_container {
+  display: flex;
+  justify-content: center;
+  /* margin-top: 200px; */
+}
+.tnf_back_btn {
+  position: absolute !important;
+  left: 20px;
+  top: 20px;
+}
